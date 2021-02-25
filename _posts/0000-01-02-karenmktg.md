@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello world!
+It's not about ideas, it's about making ideas happpen.
 Use the left arrow to go back!
